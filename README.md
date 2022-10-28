@@ -12,8 +12,8 @@ MongoDB: Mongoose, Aggregation
 # Software Required
 
 1.Any Editior
-2.NodeJs
-3.MongoDB
+2.NodeJs (Version 16.13.1)
+3.MongoDB (Version 5.0.8)
 4.Postman
 
 # How to Run
